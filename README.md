@@ -10,7 +10,7 @@ topic | link
 ----|-----
 groth mindset | [link](groth)
 read1 |[link](read01)
-
+read2 |[link](read02)
 
 
 [my github](https://github.com/mohammadezzat93)
