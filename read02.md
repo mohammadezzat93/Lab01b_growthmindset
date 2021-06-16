@@ -1,5 +1,3 @@
-
-
 # Summary of today's lecture
 
 ## Difference Between Git & Github
