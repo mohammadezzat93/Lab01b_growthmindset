@@ -72,12 +72,12 @@ to indicate the role of the <div> element in the structure of the page.*
 - <body>
 - <div>
 - <header> </header>
-- <section><article><figure><img src="example.jpg"/>
-  </figure> </article></section>
+- <section><article><figure><p></p>
+  </figure></article></section>
 - <footer></footer>
 - </div>
 - </body>
--</html>
+- </html>
 
 
 ### Summary HTML5 LAYOUT
