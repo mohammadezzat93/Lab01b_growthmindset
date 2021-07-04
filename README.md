@@ -21,7 +21,11 @@ read07 |[Function](read07)
 topic | link
 ----|-----
 read01 |[Introductory HTML and JavaScript](class-01)
+<<<<<<< HEAD
 read02 |[HTML, CSS Introduction, and Basic JavaScript Instructions](class-02)
+=======
+read02 |[HTML Text, CSS Introduction, and Basic JavaScript Instructions](class-02)
+>>>>>>> cf9f2100634bb87d0e3cb5d10a6d510588fb3c58
 read03 |[read03](class-03)
 read04 |[read04](class-04)
 read05 |[read05](class-05)
