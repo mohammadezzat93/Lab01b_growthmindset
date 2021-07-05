@@ -1,5 +1,6 @@
 #   Text
 
+<<<<<<< HEAD
 **Structural markup** : the elements that you can use to
 describe both headings and paragraphs  
 **Semantic markup** : which provides extra information; such
@@ -7,6 +8,8 @@ as where emphasis is placed in a sentence, that something
 you have written is a quotation (and who said it), the
 meaning of acronyms, and so on
 
+=======
+>>>>>>> cf6532c8a5fe92eeaa5a3248a7997572befc95ac
 ### heading
 
 **<h1>**
@@ -68,6 +71,19 @@ The use of the <strong>
 element indicates that its
 content has strong importance.
 
+<<<<<<< HEAD
+=======
+![structure of HTML](https://mason.gmu.edu/~kshiffl4/375/HTML_Tags.jpg)
+
+
+**Structural markup** : the elements that you can use to
+describe both headings and paragraphs  
+**Semantic markup** : which provides extra information; such
+as where emphasis is placed in a sentence, that something
+you have written is a quotation (and who said it), the
+meaning of acronyms, and so on
+
+>>>>>>> cf6532c8a5fe92eeaa5a3248a7997572befc95ac
 ## Summary TEXT
 - HTML elements are used to describe the structure of
 the page (e.g. headings, subheadings, paragraphs).
@@ -90,6 +106,16 @@ acronyms used, when given text is a quotation).
 |  | Responsivness
 |  | animate the website
 
+<<<<<<< HEAD
+=======
+![CSS](https://www.codegrepper.com/codeimages/how-to-add-css-file-in-django-template.png)
+-------
+![CSS](https://miro.medium.com/max/1400/1*J1qT2jIaj-AqsuhyIqcPbQ.png)
+
+
+
+
+>>>>>>> cf6532c8a5fe92eeaa5a3248a7997572befc95ac
 ### Summary
 - CSS treats each HTML e XX lement as if it appears inside
 its own box and uses rules to indicate how that
@@ -203,4 +229,8 @@ switch (new Date().getDay()) {
 - The default keyword specifies the code to run if there is no case match
 
 
+<<<<<<< HEAD
 
+=======
+![Javascript/switch](https://www.javascripttutorial.net/wp-content/uploads/2016/08/JavaScript-switch-case.png)
+>>>>>>> cf6532c8a5fe92eeaa5a3248a7997572befc95ac
