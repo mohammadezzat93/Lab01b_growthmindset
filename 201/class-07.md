@@ -107,8 +107,6 @@ or column using the rowspan and colspan attributes.
 - For long tables you can split the table into a <thead>,
 (<tbody>), and (<tfoot>).
 
------------
-
 # Functions, Methods, and Objects
 
 ## JavaScript Object Constructors
