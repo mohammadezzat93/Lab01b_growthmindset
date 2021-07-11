@@ -95,17 +95,17 @@ of either the entire table or
 individual table cells. 
 
 ## Summary TABLES
-- The <table> element is used to add tables to a web
+- The (<table>) element is used to add tables to a web
 page.
 - A table is drawn out row by row. Each row is created
-with the <tr> element.
+with the (<tr>) element.
 - Inside each row there are a number of cells
-represented by the <td> element (or <th> if it is a
+represented by the (<td>) element (or (<th>) if it is a
 header).
 - You can make cells of a table span more than one row
 or column using the rowspan and colspan attributes.
 - For long tables you can split the table into a <thead>,
-<tbody>, and <tfoot>.
+(<tbody>), and (<tfoot>).
 
 -----------
 
@@ -113,7 +113,9 @@ or column using the rowspan and colspan attributes.
 
 ## JavaScript Object Constructors
 
-#### constructor : The constructor method is a special method of a class for creating and initializing an object of that class.
+#### constructor 
+
+- The constructor method is a special method of a class for creating and initializing an object of that class.
 
 - The **this** Keyword
 In JavaScript, the thing called this is the object that "owns" the code.
@@ -123,6 +125,7 @@ In JavaScript, the thing called this is the object that "owns" the code.
 - In a constructor function this does not have a value. It is a substitute for the new object. The value of this will become the new object when a new object is created.
 
 - **Note** that this is not a variable. It is a keyword. You cannot change the value of this.  
+
 
 ![Image](https://miro.medium.com/max/1400/1*uO_3V9tJ0ZD0LI-Hi7x2FA.png)
 
@@ -134,15 +137,16 @@ In JavaScript, the thing called this is the object that "owns" the code.
 - To add a new property to a constructor, you must add it to the constructor function:
 
 #### Example
-function Person(first, last, age, eyecolor) {  
+**function Person(first, last, age, eyecolor) {  
   this.firstName = first;  
   this.lastName = last;  
   this.age = age;  
   this.eyeColor = eyecolor;  
   this.nationality = "English";  
-}  
+}**  
 
 ## Built-in JavaScript Constructors
+
 ### JavaScript has built-in constructors for native objects:
 
 -     new String() // A new String object
