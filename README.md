@@ -32,7 +32,7 @@ read09 |[Forms and JS Events](class-09)
 read10 |[JS Debugging](class-10)
 read11 |[Audio, Video, Images](class-11)
 read12 |[Chart.js](class-12)
-read13 |[read13](class-13)
+read13 |[Local Storage](class-13)
 read14 |[read14](class-14)
 read15 |[read15](class-15)
 
