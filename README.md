@@ -1,8 +1,10 @@
+# Reading Notes :
+
 # Introduction about myself
 
 **My name is Mohamed Ezzat Al-Haj Ali, I am 28 years old, I graduated from Zarqa University in 2019, I hope through this course to develop my programming capabilities**  
 
-## Code 102 Reading Notes
+## Code 102 Intro to Software Development
 
 topic | link
 ----|-----
@@ -16,7 +18,7 @@ read06 |[Design Web Pages with CSS](read06)
 read07 |[Function](read07)
 
 
-## Code 201 Reading Notes
+## Code 201 Foundations of Software Development
 
 topic | link
 ----|-----
@@ -35,5 +37,18 @@ read12 |[Chart.js](class-12)
 read13 |[Local Storage](class-13)
 read14 |[What Google Learned About Teams](class-14)
 read15 |[CSS Transforms, Transitions, and Animations](class-15)
+
+
+## Code 301 - Intermediate Software Development
+
+topic | link
+----|-----
+
+
+## Code 401 - Advanced Software Development
+
+topic | link
+----|-----
+
 
 [my github](https://github.com/mohammadezzat93)
