@@ -43,7 +43,8 @@ read15 |[CSS Transforms, Transitions, and Animations](class-15)
 
 topic | link
 ----|-----
-read01 |[Introduction to React and Components](class-01) 
+read01 |[State and Props](class-01)  
+read02 |[Introduction to React and Components](class-02) 
 
 ## Code 401 - Advanced Software Development
 
