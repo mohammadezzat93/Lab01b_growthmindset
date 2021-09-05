@@ -38,17 +38,18 @@ read13 |[Local Storage](class-13)
 read14 |[What Google Learned About Teams](class-14)
 read15 |[CSS Transforms, Transitions, and Animations](class-15)
 
-
 ## Code 301 - Intermediate Software Development
 
 topic | link
 ----|-----
 read01 |[State and Props](class-01)  
-read02 |[Introduction to React and Components](class-02) 
-read03 |[Passing Functions as Props](class-03) 
-read04 |[React and Forms](class-04) 
+read02 |[Introduction to React and Components](class-02)
+read03 |[Passing Functions as Props](class-03)
+read04 |[React and Forms](class-04)
 read05 |[thinking in React](class-05)  
-read06 |[NODE.JS](class-06) 
+read06 |[NODE.JS](class-06)
+read07 |[REST](class-07)
+
 ## Code 401 - Advanced Software Development
 
 topic | link
