@@ -49,6 +49,7 @@ read04 |[React and Forms](class-04)
 read05 |[thinking in React](class-05)  
 read06 |[NODE.JS](class-06)
 read07 |[REST](class-07)
+read08 |[APIs](class-08)
 
 ## Code 401 - Advanced Software Development
 
