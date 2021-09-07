@@ -50,6 +50,7 @@ read05 |[thinking in React](class-05)
 read06 |[NODE.JS](class-06)
 read07 |[REST](class-07)
 read08 |[APIs](class-08)
+read09 |[Functional Programming Concepts](class-09)
 
 ## Code 401 - Advanced Software Development
 
@@ -58,4 +59,3 @@ topic | link
 
 [my github](https://github.com/mohammadezzat93)  
 [my repo](https://github.com/mohammadezzat93/Reading-notes)
-
