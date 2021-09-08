@@ -51,6 +51,7 @@ read06 |[NODE.JS](class-06)
 read07 |[REST](class-07)
 read08 |[APIs](class-08)
 read09 |[Functional Programming Concepts](class-09)
+read10 |[JavaScript Call Stack](class-10)
 
 ## Code 401 - Advanced Software Development
 
