@@ -54,6 +54,7 @@ read09 |[Functional Programming Concepts](class-09)
 read10 |[JavaScript Call Stack](class-10)
 read11 |[Mongo and Mongoose](class-11)
 read12 |[Authentication](class-12)
+read13 |[CRUD](class-13)
 
 ## Code 401 - Advanced Software Development
 
