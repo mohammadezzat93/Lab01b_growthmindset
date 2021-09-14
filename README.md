@@ -55,6 +55,7 @@ read10 |[JavaScript Call Stack](class-10)
 read11 |[Mongo and Mongoose](class-11)
 read12 |[Authentication](class-12)
 read13 |[CRUD](class-13)
+read14 |[Diversity & Inclusion in the Tech Industry](class-14)
 
 ## Code 401 - Advanced Software Development
 
